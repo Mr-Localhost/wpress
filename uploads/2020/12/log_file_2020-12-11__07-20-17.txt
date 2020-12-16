@@ -1,0 +1,44 @@
+
+---Downloaded files---
+The import files for: Portfoliolite Default were successfully downloaded!
+Initial max execution time = 120
+Files info:
+Site URL = http://localhost/wordpress
+Data file = C:\wamp64\www\wordpress/wp-content/uploads/2020/12/demo-content-import-file_2020-12-11__07-20-17.xml
+Widget file = C:\wamp64\www\wordpress/wp-content/uploads/2020/12/demo-widgets-import-file_2020-12-11__07-20-17.json
+Customizer file = C:\wamp64\www\wordpress/wp-content/uploads/2020/12/demo-customizer-import-file_2020-12-11__07-20-17.dat
+Redux files:
+not defined!
+
+---Importing widgets---
+Primary Sidebar : 
+
+Search - No Title - Widget already exists
+Products - Products - Imported
+Recent Posts - No Title - Imported
+
+First Footer Widget Area : 
+
+Custom HTML - About Us - Imported
+
+Second Footer Widget Area : 
+
+Navigation Menu - Useful Links - Imported
+
+Third Footer Widget Area : 
+
+Custom HTML - Address - Imported
+
+Team : 
+
+Portfoliolite : Team Widget - Harry - Imported
+Portfoliolite : Team Widget - JULIA - Imported
+Portfoliolite : Team Widget - David - Imported
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---pt-ocdi/after_import---
+
